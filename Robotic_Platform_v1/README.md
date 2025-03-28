@@ -1,1 +1,0 @@
-This is the design file repository for next platform version v1
