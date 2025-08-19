@@ -1,0 +1,28 @@
+Solid Edge in STL konvertieren
+Datum: Saturday,August 16,2025 12:34AM
+Quelldatei:D:\Github\OSAMBot\Robotic_Platform_v1\CAD\helping-prints\Laser alignment\Tube-outer.par
+Ausgangssystem: SOLID EDGE
+
+Hardware:
+Prozessor: Intel(R) Xeon(R) W-2225 CPU @ 4.10GHz
+Betriebssystem: Windows 10 Enterprise Edition
+Installierter Speicher: 31,55 GB
+
+Software-Informationen:
+Parasolid-Version: 37.0.118
+PSBodyshop-Version: 37.0.94
+STL-Adapterversion: 15.0.142
+Solid Edge-Version: 225.00.01.004 x64
+
+STL-Exportoptionen:
+Ausgabedateiformat:BINARY
+Angezeigte Teile exportieren: Aus
+Strukturoption: Monolithic
+Einheiten exportieren:Millimeter
+Toleranzwert exportieren:0,010000
+Toleranztyp exportieren:Custom
+Flächenplanwinkelwert exportieren:0,523599
+
+Konvertierungsfortschritt:
+Konvertierungsvorgang ist abgeschlossen
+Zum Konvertieren benötigte Zeit:00 : 00 : 00
