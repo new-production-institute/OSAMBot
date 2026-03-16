@@ -6,6 +6,8 @@ This is the dp and scrowler repository for the design files of the telescopic ro
 
 ## Description
 
+<img src="robotic-platform-v1/res/assets/img/osambot.png" width="50%" alt="Description">
+
 This robot is a low-cost, modular telescopic autonomous agricultural platform
 designed to support precision farming. It address challenges caused by climate
 change. The open-source hardware design follows Fab City principles, aiming to
