@@ -1,0 +1,35 @@
+version = 1
+SPDX-PackageName = "OSAMBot"
+SPDX-PackageSupplier = "Durga Prasad Babu Nasika <durga.sastra@gmail.com>"
+SPDX-PackageDownloadLocation = "git@github.com:new-production-institute/OSAMBot.git"
+
+[[annotations]]
+path = ["README.md"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["", "Durga Prasad Babu Nasika <durga.sastra@gmail.com>"]
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = ["robotic-platform-v1/doc/**", "robotic-platform-v0/doc/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["", "Durga Prasad Babu Nasika <durga.sastra@gmail.com>"]
+SPDX-License-Identifier = "Apache-2.0"
+
+[[annotations]]
+path = ["robotic-platform-v1/src/mech/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["SJ", "Durga Prasad Babu Nasika <durga.sastra@gmail.com>"]
+SPDX-License-Identifier = "CERN-OHL-S-2.0"
+
+[[annotations]]
+path = ["robotic-platform-v0/src/mech/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["Joel Romero", "Durga Prasad Babu Nasika <durga.sastra@gmail.com>"]
+SPDX-License-Identifier = "CERN-OHL-S-2.0"
+
+
+[[annotations]]
+path = ["LICENSES/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "CC0-1.0"
