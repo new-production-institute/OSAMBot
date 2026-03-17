@@ -2,14 +2,15 @@
 
 ## Introduction
 
-This is the dp and scrowler repository for the design files of the telescopic robotics platform
+OSAMBot is a low-cost, open-source, modular telescopic robot designed to support
+precision farming through adaptable, locally manufacturable automation.
 
 ## Description
 
 <img src="robotic-platform-v1/res/assets/img/osambot.png" width="50%" alt="Description">
 
 This robot is a low-cost, modular telescopic autonomous agricultural platform
-designed to support precision farming. It address challenges caused by climate
+designed to support precision farming. It addresses challenges caused by climate
 change. The open-source hardware design follows Fab City principles, aiming to
 provide flexible, locally producible robotic solutions for tasks such as
 seeding, weeding, and maintaining farm operations.
